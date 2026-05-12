@@ -1,6 +1,6 @@
 # Robotic Process Automation – Process Mining
 
-**Course:** GB 745 – Robotic Process Automation & Process Mining | UW–Madison, School of Business  
+**Course:** Robotic Process Automation & Process Mining
 **Assignment:** Process Mapping – Customer Onboarding Analysis
 
 ---
