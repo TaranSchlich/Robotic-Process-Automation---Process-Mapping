@@ -1,7 +1,6 @@
-# Robotic Process Automation – Process Mining
+# Robotic Process Automation – Process Mapping
 
-**Course:** Robotic Process Automation & Process Mining
-
+**Course:** GB 745 – Robotic Process Automation & Process Mapping | UW–Madison, School of Business  
 **Assignment:** Process Mapping – Customer Onboarding Analysis
 
 ---
@@ -96,4 +95,4 @@ The swim lane map covers four actor lanes across the full onboarding journey:
 
 ## Tools & Skills
 
-`Lucidchart` &nbsp;`Swim Lane Process Mapping` &nbsp;`Process Mining` &nbsp;`Business Process Analysis` &nbsp;`SaaS Onboarding` &nbsp;`Stakeholder Communication` &nbsp;`Root Cause Analysis`
+`Lucidchart` &nbsp;`Swim Lane Process Mapping` &nbsp;`Business Process Analysis` &nbsp;`SaaS Onboarding` &nbsp;`Stakeholder Communication` &nbsp;`Root Cause Analysis`
