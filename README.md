@@ -1,6 +1,7 @@
 # Robotic Process Automation – Process Mapping
 
-**Course:** GB 745 – Robotic Process Automation & Process Mapping | UW–Madison, School of Business  
+**Course:** Robotic Process Automation & Process Mapping
+
 **Assignment:** Process Mapping – Customer Onboarding Analysis
 
 ---
