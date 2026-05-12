@@ -1,6 +1,7 @@
 # Robotic Process Automation – Process Mining
 
 **Course:** Robotic Process Automation & Process Mining
+
 **Assignment:** Process Mapping – Customer Onboarding Analysis
 
 ---
